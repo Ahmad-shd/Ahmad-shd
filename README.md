@@ -1,11 +1,8 @@
 <!-- 🌟 GitHub Profile README 🌟 -->
 
-<!-- Banner -->
-![Banner](https://raw.githubusercontent.com/USERNAME/USERNAME/main/banner.png)
-
 <!-- Salam -->
 <h1 align="center">Hi 👋, I'm Ahmad Sholehuddin</h1>
-<h3 align="center">💻 SMK PPLG Student | Web & Mobile Developer 🚀</h3>
+<h3 align="center">💻 SMK PPLG Student | Back end Develover 🚀</h3>
 
 <!-- Animasi teks -->
 <p align="center">
@@ -18,9 +15,9 @@
 
 ## 🔥 Tentang Saya
 - 🌱 Sedang belajar **PHP, Laravel, dan JavaScript**
-- 🎯 Target tahun ini: **Bikin aplikasi portofolio pribadi**
-- 📫 Kontak saya di: **emailkamu@example.com**
-- ⚡ Fun fact: Suka begadang kalau ngoding 😆
+- 🎯 Target tahun ini: **Bikin website responsife**
+- 📫 Kontak saya di: **ahmadsollehudin305@gmail.com**
+- ⚡ Fun fact: Suka begadang kalau ngoding + call 😆
 
 ---
 
@@ -36,31 +33,6 @@
 
 ---
 
-## 📊 Statistik GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true" alt="streak" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" height="160"/>
-</p>
-
----
-
-## 🐍 Snake Animation
-![snake gif](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 🌐 Sosial Media
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/USERNAME)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME)
-
----
-
-<!-- Footer -->
 <p align="center">
   <i>Terima kasih sudah mampir! ✨</i>
 </p>
